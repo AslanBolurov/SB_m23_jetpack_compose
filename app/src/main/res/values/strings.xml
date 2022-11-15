@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RickyMortyCompose</string>
+    <string name="location_title">Last known location:</string>
+</resources>
